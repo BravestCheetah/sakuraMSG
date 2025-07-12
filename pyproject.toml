@@ -3,6 +3,4 @@ name = "sakura-msg"
 version = "0.1.0"
 dependencies = [
     "requests",
-    # add your dependencies here, for example:
-    # "numpy>=1.25"
 ]
